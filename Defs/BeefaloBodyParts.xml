@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<BodyPartGroupDef>
+		<defName>BeefaloHornsAttackTool</defName>
+		<label>horns</label>
+	</BodyPartGroupDef>
+
+  <BodyPartDef>
+    <defName>Beefalo_LeftHorn</defName>
+    <label>left horn</label>
+    <hitPoints>15</hitPoints>
+    <permanentInjuryChanceFactor>0.3</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <alive>false</alive>
+    <bleedRate>0</bleedRate>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>Beefalo_RightHorn</defName>
+    <label>right horn</label>
+    <hitPoints>15</hitPoints>
+    <permanentInjuryChanceFactor>0.3</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <alive>false</alive>
+    <bleedRate>0</bleedRate>
+  </BodyPartDef>
+
+</Defs>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimStarve", "RimStarve\RimStarve.csproj", "{141D4447-F869-4A03-960E-4EBC1FCB4A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141D4447-F869-4A03-960E-4EBC1FCB4A0C}.Debug|Any CPU.ActiveCfg = RimWorld|Any CPU
+		{141D4447-F869-4A03-960E-4EBC1FCB4A0C}.Debug|Any CPU.Build.0 = RimWorld|Any CPU
+		{141D4447-F869-4A03-960E-4EBC1FCB4A0C}.Release|Any CPU.ActiveCfg = RimWorld|Any CPU
+		{141D4447-F869-4A03-960E-4EBC1FCB4A0C}.Release|Any CPU.Build.0 = RimWorld|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8994A9-B900-487F-AA72-E179C4276192}
+	EndGlobalSection
+EndGlobal

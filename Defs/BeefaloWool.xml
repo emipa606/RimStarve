@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="WoolBase">
+    <defName>BeefaloWool</defName>
+    <label>beefalo wool</label>
+    <description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</description>
+    <graphicData>
+      <color>(159,172,166)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(159,172,166)</color>
+      <commonality>0.15</commonality>
+      <statOffsets>
+        <ArmorRating_Heat>0.08</ArmorRating_Heat>
+      </statOffsets>
+      <statFactors>
+        <ArmorRating_Sharp>1.1</ArmorRating_Sharp>
+        <ArmorRating_Heat>2.2</ArmorRating_Heat>
+        <Insulation_Cold>3.0</Insulation_Cold>
+        <Insulation_Heat>3.0</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+</Defs>

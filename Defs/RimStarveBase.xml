@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- creatures -->
+  
+  <ThingDef Name="RimStarveBasePawn" Abstract="True">
+		<!--<thingClass>RimStarvePawn</thingClass>-->
+		<thingClass>Pawn</thingClass>
+		<category>Pawn</category>
+		<selectable>true</selectable>
+		<tickerType>Normal</tickerType>
+		<altitudeLayer>Pawn</altitudeLayer>
+		<useHitPoints>false</useHitPoints>
+		<hasTooltip>true</hasTooltip>
+		<soundImpactDefault>BulletImpact_Flesh</soundImpactDefault>
+		<statBases>
+			<Mass>70</Mass>
+		</statBases>
+		<inspectorTabs>
+			<li>ITab_Pawn_Health</li>
+			<li>ITab_Pawn_Needs</li>
+			<li>ITab_Pawn_Character</li>
+			<li>ITab_Pawn_Training</li>
+			<li>ITab_Pawn_Gear</li>
+			<li>ITab_Pawn_Guest</li>
+			<li>ITab_Pawn_Prisoner</li>
+			<li>ITab_Pawn_Social</li>
+		</inspectorTabs>
+		<comps>
+			<li>
+				<compClass>CompAttachBase</compClass>
+			</li>
+		</comps>
+		<drawGUIOverlay>true</drawGUIOverlay>
+	</ThingDef>
+
+	<ThingDef ParentName="RimStarveBasePawn" Name="RimStarveThingBase" Abstract="True">
+		<statBases>
+			<Flammability>1.0</Flammability>
+			<LeatherAmount>25</LeatherAmount>
+		</statBases>
+		<race>
+			<thinkTreeMain>Animal</thinkTreeMain>
+			<thinkTreeConstant>AnimalConstant</thinkTreeConstant>
+			<hasGenders>true</hasGenders>
+			<nameGenerator>NamerAnimalGenericMale</nameGenerator>
+			<nameGeneratorFemale>NamerAnimalGenericFemale</nameGeneratorFemale>
+			<manhunterOnDamageChance>0.0125</manhunterOnDamageChance>
+			<manhunterOnTameFailChance>0.005</manhunterOnTameFailChance>
+			<nameOnNuzzleChance>0.5</nameOnNuzzleChance>
+			<hediffGiverSets>
+				<li>OrganicStandard</li>
+			</hediffGiverSets>
+		</race>
+		<recipes>
+			<li>ExciseCarcinoma</li>
+			<li>RemoveBodyPart</li>
+			<li>Euthanize</li>
+		</recipes>
+	</ThingDef>
+
+	<PawnKindDef Name="RimStarveKindBase" Abstract="True">
+	</PawnKindDef>
+
+  <!-- resources -->
+
+  <ThingDef Name="ResourceBase" Abstract="True">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <Beauty>-7</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <rotatable>false</rotatable>
+    <pathCost>15</pathCost>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase" Name="WoolBase" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Resource/Wool</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <MarketValue>3.0</MarketValue>
+      <Mass>0.028</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>3.4</DeteriorationRate>
+    </statBases>
+    <stackLimit>100</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0.15</commonality>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+
+</Defs>
