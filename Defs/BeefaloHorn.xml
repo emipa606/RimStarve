@@ -39,13 +39,6 @@
         <cooldownTime>2</cooldownTime>
       </li>
     </tools>
-    <verbs>
-      <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
-        <meleeDamageDef>Scratch</meleeDamageDef>
-      </li>
-    </verbs>
     <thingCategories>
       <li>Items</li>
     </thingCategories>
