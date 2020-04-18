@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <BodyDef>
     <defName>Beefalo_QuadrupedAnimalWithHoovesAndTwoHorns</defName>
     <label>quadruped animal</label>
@@ -102,7 +101,7 @@
                   <coverage>0.1</coverage>
                 </li>
                 <li>
-                  <def>Jaw</def>
+                  <def>AnimalJaw</def>
                   <coverage>0.1</coverage>
                   <groups>
                     <li>Teeth</li>
@@ -187,5 +186,4 @@
       </parts>
     </corePart>
   </BodyDef>
-
 </Defs>

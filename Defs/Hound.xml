@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="RimStarveThingBase">
     <defName>Hound</defName>
     <label>hound</label>
@@ -109,11 +108,11 @@
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-      <li>StandardAnimal</li>
-      <li>BadassAnimal</li>
+      <li>AnimalFarm</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
     </tradeTags>
   </ThingDef>
-  
   <PawnKindDef ParentName="RimStarveKindBase">
     <defName>Hound</defName>
     <label>hound</label>
@@ -162,7 +161,7 @@
           <texPath>Hound/hound</texPath>
           <drawSize>1.7</drawSize>
         </dessicatedBodyGraphicData>
-				<butcherBodyPart>
+        <butcherBodyPart>
           <bodyPartGroup>HoundFangsAttackTool</bodyPartGroup>
           <thing>HoundTooth</thing>
           <allowFemale>true</allowFemale>
@@ -172,5 +171,4 @@
     <ecoSystemWeight>0.9</ecoSystemWeight>
     <wildGroupSize>2~5</wildGroupSize>
   </PawnKindDef>
-
 </Defs>

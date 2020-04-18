@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
   <ThingDef Name="ResourceVerbBase" ParentName="ResourceBase" Abstract="True">
     <equipmentType>Primary</equipmentType>
     <techLevel>Neolithic</techLevel>
@@ -10,7 +9,6 @@
       </li>
     </comps>
   </ThingDef>
-  
   <ThingDef ParentName="ResourceVerbBase">
     <defName>BeefaloHorn</defName>
     <label>beefalo horn</label>
@@ -29,7 +27,7 @@
     </statBases>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
     <stackLimit>10</stackLimit>
-	<tools>
+    <tools>
       <li>
         <label>point</label>
         <capacities>
@@ -46,5 +44,4 @@
       <li>Exotic</li>
     </tradeTags>
   </ThingDef>
-
 </Defs>

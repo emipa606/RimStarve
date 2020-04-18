@@ -1,11 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<BodyPartGroupDef>
-		<defName>BeefaloHornsAttackTool</defName>
-		<label>horns</label>
-	</BodyPartGroupDef>
-
+  <BodyPartGroupDef>
+    <defName>BeefaloHornsAttackTool</defName>
+    <label>horns</label>
+  </BodyPartGroupDef>
   <BodyPartDef>
     <defName>Beefalo_LeftHorn</defName>
     <label>left horn</label>
@@ -16,7 +14,6 @@
     <alive>false</alive>
     <bleedRate>0</bleedRate>
   </BodyPartDef>
-
   <BodyPartDef>
     <defName>Beefalo_RightHorn</defName>
     <label>right horn</label>
@@ -27,5 +24,4 @@
     <alive>false</alive>
     <bleedRate>0</bleedRate>
   </BodyPartDef>
-
 </Defs>

@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
   <ThingDef ParentName="ResourceBase">
     <defName>HoundTooth</defName>
     <label>hound's tooth</label>
@@ -25,5 +24,4 @@
       <li>Exotic</li>
     </tradeTags>
   </ThingDef>
-
 </Defs>
