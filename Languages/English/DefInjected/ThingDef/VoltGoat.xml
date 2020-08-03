@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VoltGoat.label>volt goat</VoltGoat.label>
+  <VoltGoat.description>This relative of the domesticated goat has nice fur.</VoltGoat.description>
+  <VoltGoat_Leather.label>volt goat leather</VoltGoat_Leather.label>
+  <VoltGoat_Leather.description>volt goat leather</VoltGoat_Leather.description>
+  <VoltGoat_Leather.stuffProps.stuffAdjective>volt goat leather</VoltGoat_Leather.stuffProps.stuffAdjective>
+  <VoltGoat_Meat.label>beef</VoltGoat_Meat.label>
+  <VoltGoat_Meat.description>beef</VoltGoat_Meat.description>
+  <VoltGoat_Corpse.label>volt goat corpse</VoltGoat_Corpse.label>
+  <VoltGoat_Corpse.description>volt goat corpse</VoltGoat_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hound.label>hound</Hound.label>
+  <Hound.description>Heavily-muscled dog-like creatures - seemingly a genetic relative of wargs.</Hound.description>
+  <Hound_Leather.label>hound leather</Hound_Leather.label>
+  <Hound_Leather.description>hound leather</Hound_Leather.description>
+  <Hound_Leather.stuffProps.stuffAdjective>hound leather</Hound_Leather.stuffProps.stuffAdjective>
+  <Hound_Meat.label>hound meat</Hound_Meat.label>
+  <Hound_Meat.description>hound meat</Hound_Meat.description>
+  <Hound_Corpse.label>hound corpse</Hound_Corpse.label>
+  <Hound_Corpse.description>hound corpse</Hound_Corpse.description>
+
+
+</LanguageData>

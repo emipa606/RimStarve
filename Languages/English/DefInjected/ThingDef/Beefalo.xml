@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Beefalo.label>beefalo</Beefalo.label>
+  <Beefalo.description>A large herding herbivore descended from buffalo and adapted for some exotic environment. Peaceful unless disturbed.</Beefalo.description>
+  <Beefalo_Leather.label>beefalo leather</Beefalo_Leather.label>
+  <Beefalo_Leather.description>beefalo leather</Beefalo_Leather.description>
+  <Beefalo_Leather.stuffProps.stuffAdjective>beefalo leather</Beefalo_Leather.stuffProps.stuffAdjective>
+  <Beefalo_Meat.label>beefalo meat</Beefalo_Meat.label>
+  <Beefalo_Meat.description>beefalo meat</Beefalo_Meat.description>
+  <Beefalo_Corpse.label>beefalo corpse</Beefalo_Corpse.label>
+  <Beefalo_Corpse.description>beefalo corpse</Beefalo_Corpse.description>
+
+
+</LanguageData>

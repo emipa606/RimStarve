@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Beefalo.label>beefalo</Beefalo.label>
+  <Beefalo.labelPlural>beefalos</Beefalo.labelPlural>
+  <Beefalo.lifeStages.0.label>beefalo calf</Beefalo.lifeStages.0.label>
+  <Beefalo.lifeStages.0.labelPlural>beefalo calves</Beefalo.lifeStages.0.labelPlural>
+  <Beefalo.lifeStages.0.labelMale>male beefalo calf</Beefalo.lifeStages.0.labelMale>
+  <Beefalo.lifeStages.0.labelMalePlural>male beefalo calves</Beefalo.lifeStages.0.labelMalePlural>
+  <Beefalo.lifeStages.0.labelFemale>female beefalo calf</Beefalo.lifeStages.0.labelFemale>
+  <Beefalo.lifeStages.0.labelFemalePlural>female beefalo calves</Beefalo.lifeStages.0.labelFemalePlural>
+  <Beefalo.lifeStages.1.label>beefalo</Beefalo.lifeStages.1.label>
+  <Beefalo.lifeStages.1.labelPlural>beefalo</Beefalo.lifeStages.1.labelPlural>
+  <Beefalo.lifeStages.1.labelMale>male beefalo</Beefalo.lifeStages.1.labelMale>
+  <Beefalo.lifeStages.1.labelMalePlural>male beefalos</Beefalo.lifeStages.1.labelMalePlural>
+  <Beefalo.lifeStages.1.labelFemale>female beefalo</Beefalo.lifeStages.1.labelFemale>
+  <Beefalo.lifeStages.1.labelFemalePlural>female beefalos</Beefalo.lifeStages.1.labelFemalePlural>
+  <Beefalo.lifeStages.2.label>beefalo</Beefalo.lifeStages.2.label>
+  <Beefalo.lifeStages.2.labelPlural>beefalo</Beefalo.lifeStages.2.labelPlural>
+  <Beefalo.lifeStages.2.labelMale>male beefalo</Beefalo.lifeStages.2.labelMale>
+  <Beefalo.lifeStages.2.labelMalePlural>male beefalos</Beefalo.lifeStages.2.labelMalePlural>
+  <Beefalo.lifeStages.2.labelFemale>female beefalo</Beefalo.lifeStages.2.labelFemale>
+  <Beefalo.lifeStages.2.labelFemalePlural>female beefalos</Beefalo.lifeStages.2.labelFemalePlural>
+  <Beefalo.labelMale>male beefalo</Beefalo.labelMale>
+  <Beefalo.labelMalePlural>male beefalos</Beefalo.labelMalePlural>
+  <Beefalo.labelFemale>female beefalo</Beefalo.labelFemale>
+  <Beefalo.labelFemalePlural>female beefalos</Beefalo.labelFemalePlural>
+
+
+</LanguageData>

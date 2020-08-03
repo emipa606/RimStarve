@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rabbit.label>rabbit</Rabbit.label>
+  <Rabbit.labelPlural>rabbits</Rabbit.labelPlural>
+  <Rabbit.lifeStages.0.label>rabbit</Rabbit.lifeStages.0.label>
+  <Rabbit.lifeStages.0.labelPlural>rabbit</Rabbit.lifeStages.0.labelPlural>
+  <Rabbit.lifeStages.0.labelMale>male rabbit</Rabbit.lifeStages.0.labelMale>
+  <Rabbit.lifeStages.0.labelMalePlural>male rabbits</Rabbit.lifeStages.0.labelMalePlural>
+  <Rabbit.lifeStages.0.labelFemale>female rabbit</Rabbit.lifeStages.0.labelFemale>
+  <Rabbit.lifeStages.0.labelFemalePlural>female rabbits</Rabbit.lifeStages.0.labelFemalePlural>
+  <Rabbit.lifeStages.1.label>rabbit</Rabbit.lifeStages.1.label>
+  <Rabbit.lifeStages.1.labelPlural>rabbit</Rabbit.lifeStages.1.labelPlural>
+  <Rabbit.lifeStages.1.labelMale>male rabbit</Rabbit.lifeStages.1.labelMale>
+  <Rabbit.lifeStages.1.labelMalePlural>male rabbits</Rabbit.lifeStages.1.labelMalePlural>
+  <Rabbit.lifeStages.1.labelFemale>female rabbit</Rabbit.lifeStages.1.labelFemale>
+  <Rabbit.lifeStages.1.labelFemalePlural>female rabbits</Rabbit.lifeStages.1.labelFemalePlural>
+  <Rabbit.lifeStages.2.label>rabbit</Rabbit.lifeStages.2.label>
+  <Rabbit.lifeStages.2.labelPlural>rabbit</Rabbit.lifeStages.2.labelPlural>
+  <Rabbit.lifeStages.2.labelMale>male rabbit</Rabbit.lifeStages.2.labelMale>
+  <Rabbit.lifeStages.2.labelMalePlural>male rabbits</Rabbit.lifeStages.2.labelMalePlural>
+  <Rabbit.lifeStages.2.labelFemale>female rabbit</Rabbit.lifeStages.2.labelFemale>
+  <Rabbit.lifeStages.2.labelFemalePlural>female rabbits</Rabbit.lifeStages.2.labelFemalePlural>
+  <Rabbit.labelMale>male rabbit</Rabbit.labelMale>
+  <Rabbit.labelMalePlural>male rabbits</Rabbit.labelMalePlural>
+  <Rabbit.labelFemale>female rabbit</Rabbit.labelFemale>
+  <Rabbit.labelFemalePlural>female rabbits</Rabbit.labelFemalePlural>
+
+
+</LanguageData>

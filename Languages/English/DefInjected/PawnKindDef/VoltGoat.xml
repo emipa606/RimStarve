@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VoltGoat.label>volt goat</VoltGoat.label>
+  <VoltGoat.labelPlural>volt goats</VoltGoat.labelPlural>
+  <VoltGoat.lifeStages.0.label>kid</VoltGoat.lifeStages.0.label>
+  <VoltGoat.lifeStages.0.labelPlural>kids</VoltGoat.lifeStages.0.labelPlural>
+  <VoltGoat.lifeStages.0.labelMale>male kid</VoltGoat.lifeStages.0.labelMale>
+  <VoltGoat.lifeStages.0.labelMalePlural>male kids</VoltGoat.lifeStages.0.labelMalePlural>
+  <VoltGoat.lifeStages.0.labelFemale>female kid</VoltGoat.lifeStages.0.labelFemale>
+  <VoltGoat.lifeStages.0.labelFemalePlural>female kids</VoltGoat.lifeStages.0.labelFemalePlural>
+  <VoltGoat.lifeStages.1.label>volt goat</VoltGoat.lifeStages.1.label>
+  <VoltGoat.lifeStages.1.labelPlural>volt goat</VoltGoat.lifeStages.1.labelPlural>
+  <VoltGoat.lifeStages.1.labelMale>male volt goat</VoltGoat.lifeStages.1.labelMale>
+  <VoltGoat.lifeStages.1.labelMalePlural>male volt goats</VoltGoat.lifeStages.1.labelMalePlural>
+  <VoltGoat.lifeStages.1.labelFemale>female volt goat</VoltGoat.lifeStages.1.labelFemale>
+  <VoltGoat.lifeStages.1.labelFemalePlural>female volt goats</VoltGoat.lifeStages.1.labelFemalePlural>
+  <VoltGoat.lifeStages.2.label>volt goat</VoltGoat.lifeStages.2.label>
+  <VoltGoat.lifeStages.2.labelPlural>volt goat</VoltGoat.lifeStages.2.labelPlural>
+  <VoltGoat.lifeStages.2.labelMale>male volt goat</VoltGoat.lifeStages.2.labelMale>
+  <VoltGoat.lifeStages.2.labelMalePlural>male volt goats</VoltGoat.lifeStages.2.labelMalePlural>
+  <VoltGoat.lifeStages.2.labelFemale>female volt goat</VoltGoat.lifeStages.2.labelFemale>
+  <VoltGoat.lifeStages.2.labelFemalePlural>female volt goats</VoltGoat.lifeStages.2.labelFemalePlural>
+  <VoltGoat.labelMale>male volt goat</VoltGoat.labelMale>
+  <VoltGoat.labelMalePlural>male volt goats</VoltGoat.labelMalePlural>
+  <VoltGoat.labelFemale>female volt goat</VoltGoat.labelFemale>
+  <VoltGoat.labelFemalePlural>female volt goats</VoltGoat.labelFemalePlural>
+
+
+</LanguageData>
