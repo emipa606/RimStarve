@@ -1,33 +1,24 @@
 # RimStarve
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of apkds mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=824132570
 
 This is a first try for this mod, I have not been able to get the customized graphics to work. The source is available from the GitHub repository if anyone wants to try and find a solution.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RimStarve]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-This is a work-in-progress mod that adds creatures based on ones found in http://store.steampowered.com/app/322330/]Don&apos;t Starve by Klei Entertainment.
+This is a work-in-progress mod that adds creatures based on ones found in http://store.steampowered.com/app/322330/]Don't Starve by Klei Entertainment.
 
 # **Features**
 
   - At this moment, 4 different animals (Beefalos, Rabbits, Hounds and Volt Goats)
-  - High resolution graphics, additionally modified to better fit the Rimworld&apos;s graphical style
+  - High resolution graphics, additionally modified to better fit the Rimworld's graphical style
   - Separate contextual sprite sets, e.g. for sheared beefalos and sleeping animals
   - Customized rabbit AI
   - Lots of detail and small additions
@@ -50,11 +41,11 @@ This is a work-in-progress mod that adds creatures based on ones found in http:/
 
 # **Compatibility**
 
-This mod doesn&apos;t override any classes or defs and *should* be compatible with most other mods. Your mileage may vary. All feedback is much appreciated.
+This mod doesn't override any classes or defs and *should* be compatible with most other mods. Your mileage may vary. All feedback is much appreciated.
 
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
