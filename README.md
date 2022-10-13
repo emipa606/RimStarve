@@ -7,6 +7,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=824132570
 
 This is a first try for this mod, I have not been able to get the customized graphics to work. The source is available from the GitHub repository if anyone wants to try and find a solution.
 
+- Added the Catcoon
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -55,6 +57,7 @@ This mod doesn't override any classes or defs and *should* be compatible with mo
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
