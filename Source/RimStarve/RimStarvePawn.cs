@@ -19,7 +19,7 @@ public class RimStarvePawn : Pawn
         ?.GetContentHolder<Texture2D>();
 
     /// <summary> List of graphic replacements </summary>
-    private readonly List<GraphicReplacement> replacements = new List<GraphicReplacement>();
+    private readonly List<GraphicReplacement> replacements = [];
 
     private CompHasGatherableBodyResource compElectricity;
 

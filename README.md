@@ -1,4 +1,4 @@
-# RimStarve
+# [RimStarve (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2033008242)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -9,13 +9,11 @@ This is a first try for this mod, I have not been able to get the customized gra
 
 - Added the Catcoon
 
-![Image](https://i.imgur.com/pufA0kM.png)
-
+![Image](https://i.imgur.com/3npT60J.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
-
-This is a work-in-progress mod that adds creatures based on ones found in http://store.steampowered.com/app/322330/]Don't Starve by Klei Entertainment.
+This is a work-in-progress mod that adds creatures based on ones found in [Don't Starve](http://store.steampowered.com/app/322330/) by Klei Entertainment.
 
 # **Features**
 
@@ -53,11 +51,12 @@ This mod doesn't override any classes or defs and *should* be compatible with mo
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-
+[![Image](https://img.shields.io/github/v/release/emipa606/RimStarve?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033008242)

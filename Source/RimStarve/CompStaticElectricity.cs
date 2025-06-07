@@ -10,10 +10,10 @@ public class CompStaticElectricity : CompHasGatherableBodyResource
     private readonly int frameskip_offset = Rand.Range(0, frameskip);
 
     private readonly WeatherDef[] weathers =
-    {
+    [
         WeatherDef.Named("Rain"), WeatherDef.Named("FoggyRain"),
         WeatherDef.Named("RainyThunderstorm"), WeatherDef.Named("DryThunderstorm")
-    };
+    ];
 
     protected override int GatherResourcesIntervalDays => Props.maxChargeDays;
     protected override int ResourceAmount => Props.powerPerDay;

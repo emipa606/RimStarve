@@ -3,17 +3,8 @@
 namespace Verse;
 
 /// <summary> Used to replace the pawn's graphic if a condition is met. </summary>
-public class GraphicReplacement
+public class GraphicReplacement(Graphic replacement, Func<bool> condition)
 {
-    private readonly Func<bool> condition;
-    private readonly Graphic replacement;
-
-    public GraphicReplacement(Graphic replacement, Func<bool> condition)
-    {
-        this.condition = condition;
-        this.replacement = replacement;
-    }
-
     /// <summary> Try to replace the pawn's graphic. Returns bool indicating success. </summary>
     public bool TryReplace(PawnRenderer renderer)
     {
@@ -24,12 +15,12 @@ public class GraphicReplacement
         }
 
         // graphic already set as active
-        if (replacement == renderer.graphics.nakedGraphic)
+        if (replacement == renderer.BodyGraphic)
         {
             return true;
         }
 
-        renderer.graphics.nakedGraphic = replacement;
+        renderer.BodyGraphic..graphics.nakedGraphic = replacement;
         renderer.graphics.ClearCache();
         return true;
     }

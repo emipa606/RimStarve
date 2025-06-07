@@ -1,5 +1,8 @@
 # Changelog for RimStarve
 
+1.4.2 - Last update, added end-of-life message
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="RimStarve_UpdateFeatureBase">
+		<modNameReadable>RimStarve</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2033008242</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="RimStarve_UpdateFeatureBase">
+		<defName>RimStarve_1_4_1</defName>
+		<assemblyVersion>1.4.1</assemblyVersion>
+		<content>This mod will not be further updated.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+
